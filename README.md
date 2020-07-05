@@ -1,7 +1,11 @@
 # Arquivo arquivo JSON - Hyper-V Quick Create
 
+Arquivo JSON contéudo
+
 Conteúdo:
 
-Para maior entendimento para execução do script acesse o link do artigo: https://gabrielluiz.com/2019/01/gerencia-hyper-v-server-2019-workgroup
+GalleryHyperV-2.JSON
+
+Para maior entendimento para configuração do arquivo JSON em sua galeria de máquinas virtuais personalizadasdo acesse o link do artigo: http://gabrielluiz.com/2020/07/vhdx-pfsense-device-vpn-s2s-azure
 
 Créditos - Gabriel Luiz - www.gabrielluiz.com
