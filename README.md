@@ -4,6 +4,6 @@ Conteúdo:
 
 GalleryHyperV-2.JSON
 
-Para maior entendimento para configuração do arquivo JSON em sua galeria de máquinas virtuais personalizadasdo acesse o link do artigo: http://gabrielluiz.com/2020/07/vhdx-pfsense-device-vpn-s2s-azure
+Para maior entendimento e configuração do arquivo JSON em sua galeria de máquinas virtuais personalizadasdo acesse o link do artigo: http://gabrielluiz.com/2020/07/vhdx-pfsense-device-vpn-s2s-azure
 
 Créditos - Gabriel Luiz - www.gabrielluiz.com
