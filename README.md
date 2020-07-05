@@ -1,7 +1,5 @@
 # Arquivo arquivo JSON - pfSense configurado para dispositivo de VPN do Azure VPN Site a Site (Site to Site VPN) - Hyper-V Quick Create.
 
-Arquivo JSON contéudo
-
 Conteúdo:
 
 GalleryHyperV-2.JSON
